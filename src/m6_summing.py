@@ -45,6 +45,7 @@ def run_test_sum_cosines():
     print('Test #3 expected', expected3)
     print('actual:', answer3)
 
+
 def sum_cosines(n):
     """
     What comes in:  A non-negative integer n.
@@ -99,6 +100,7 @@ def run_test_sum_square_roots():
     answer3 = sum_square_roots(6)
     print('Test #3 expected:', expected3)
     print('actual:', answer3)
+
 
 def sum_square_roots(n):
     """
